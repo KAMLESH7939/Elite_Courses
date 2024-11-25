@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Elite_Courses/static/css/main.80f0c5ad.css",
+    "main.js": "/Elite_Courses/static/js/main.3db0d98f.js",
+    "index.html": "/Elite_Courses/index.html",
+    "main.80f0c5ad.css.map": "/Elite_Courses/static/css/main.80f0c5ad.css.map",
+    "main.3db0d98f.js.map": "/Elite_Courses/static/js/main.3db0d98f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80f0c5ad.css",
+    "static/js/main.3db0d98f.js"
+  ]
+}
